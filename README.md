@@ -92,5 +92,5 @@ pip install -r requirements.txt
 
 ## Author
 
-**Andrew Yunteng Yeh** — B.S. Computer Science & Engineering, Yuan Ze University
+**Andrew Yeh** — B.S. Computer Science & Engineering, Yuan Ze University
 [GitHub](https://github.com/andrewyeh-rgb)

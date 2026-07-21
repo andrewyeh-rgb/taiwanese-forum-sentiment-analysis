@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints & large artifacts
+outputs/
+results/
+wandb/
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local scratch
+_inspect_*.py
+**/_sample_preview.txt
